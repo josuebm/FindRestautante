@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="links" formatted="false">
+        <item>http://localhost/fr-wiki/index.php/Manuale_di_qualit%C3%A0</item>
+        <item>http://localhost/smart-planner2/app/frontend/www/</item>
+    </string-array>
+</resources>

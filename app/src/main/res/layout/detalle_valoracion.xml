@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/ivRestaurante"
+        android:src="@drawable/ic_restaurant_menu_black_48dp"
+        android:layout_weight="0.9" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="Nombre restaurante"
+        android:id="@+id/tvRestaurante"
+        android:layout_weight="0.3"
+        android:gravity="center_vertical" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView5"
+        android:layout_weight="1"
+        android:src="@drawable/ic_star_yellow_24dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView6"
+        android:layout_weight="1"
+        android:src="@drawable/ic_star_yellow_24dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView7"
+        android:layout_weight="1"
+        android:src="@drawable/ic_star_yellow_24dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView8"
+        android:layout_weight="1"
+        android:src="@drawable/ic_star_yellow_24dp" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/imageView9"
+        android:layout_weight="1"
+        android:src="@drawable/ic_star_yellow_24dp" />
+
+</LinearLayout>

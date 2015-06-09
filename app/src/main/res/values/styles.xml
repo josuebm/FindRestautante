@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme_">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/blue_pfe</item>
+        <item name="colorControlNormal">@color/yellow_pfe</item>
+        <item name="colorControlActivated">@color/yellow_pfe</item>
+        <item name="colorControlHighlight">@color/yellow_pfe</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    
+    <style name="FloatEditTextColor" parent="android:TextAppearance">
+        <item name="android:textColor">@color/blue_pfe</item>
+    </style>
+
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Find Restaurant</string>
+
+    <string name="title_section1">Login</string>
+    <string name="title_section2">Change user</string>
+    <string name="title_section3">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_profile">Perfil</string>
+
+    <string name="action_wiki">Wiki</string>
+    <string name="action_qr">QR Code Scan</string>
+    <string name="action_web">Web</string>
+    <string name="action_checkin">Check in</string>
+    <string name="title_activity_sec">SecActivity</string>
+    <string-array name="tagTitles">
+        <item>Login</item>
+        <item>Change user</item>
+        <item>Exit</item>
+    </string-array>
+    <string name="title_activity_qrreader">QRReader</string>
+    <string name="title_activity_web">WebActivity</string>
+
+
+    <string name="error_qr">It is not possible to read this code.</string>
+    <string name="error_qr_title">Unreadable QR Code</string>
+    <string name="error_user_password">User or password invalid</string>
+    <string name="error_user_password_title">Login</string>
+    <string name="error_conexion">There is no conexion.</string>
+    <string name="message_qr">You should focus on a code to read it.</string>
+    <string name="message_qr_title">QR Code Scanner</string>
+    <string name="tv_welcome">Welcome</string>
+    <string name="bt_login">Login</string>
+    <string name="bt_logout">Logout</string>
+    <string name="progress_dialog_message">Loading. Please wait...</string>
+    <string name="menu_item_info"></string>
+    <string name="menu_item_qr">QR Scanner</string>
+    <string name="menu_item_checkin">Check-in</string>
+    <string name="menu_item_web"></string>
+    <string name="tv_checked_room">You have checked-in in room number:</string>
+    <string name="title_activity_profile">Profile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_encontrar">Encontrar</string>
+</resources>
